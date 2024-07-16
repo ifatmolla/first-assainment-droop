@@ -1,0 +1,290 @@
+
+   
+body{
+    font-family: "Poppins", sans-serif;
+}
+.my-first-container{
+    max-width: 1440px;
+    height: 616px;
+    border: 2px solid red;
+    margin: auto;
+    background-image:url("/assainment-image/Hero-bg.png") ;
+}
+.first-content{
+    display: flex;
+    flex-direction: column-reverse;
+    width: 90%;
+    margin: 0 auto;
+    align-items: center;
+    height: 100%;
+    justify-content: center;
+}
+.my-text-container {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+}
+.my-text-container button{
+    
+   font-weight: 10px;
+   font-size: 20px;
+   background-color: rgb(20, 1, 5);
+   color: white;
+   padding: 15px 20px;
+   border-radius: 6px;
+}
+.my-second-container{
+ 
+  margin: 120px 0px;
+  margin-top: 90px;
+} 
+.ifat-hasan{
+    font-size: 30px;
+}
+.ifat-molla{
+   
+}
+
+.my-second-content{
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+   
+}
+.my-third-container{
+}
+.my-third-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 400px;
+    width: 946px;
+   
+  
+    gap: 100px;
+}
+.my-text-contant{
+    width: 150px;
+    height: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+}
+.my-image-content{
+    width: 259px;
+    height: 217;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    /* flex-direction: column;enter;  */ 
+}   
+.text-title{
+    width: 390px;
+    height: 72px;
+    color: rgba(13, 19, 33, 0.7);
+}
+.text-header{
+    width: 468px;
+    height: 52px;
+}
+.text-body{
+    width: 150px;
+    height: 48px;
+    color: 1px	Inside
+    rgb(13, 19, 33);
+
+}
+
+
+
+
+
+.development-container{
+   margin-left: 350px;
+
+}
+.development-content{
+    width: 946px;
+    height: 336px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 500px; */
+    gap: 30px;
+
+}
+.my-image-content{
+    width: 270px;
+    height: 280px;
+
+}
+
+.my-text-content{   
+    width: 477px;
+    height: 220px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+
+}
+.my-developer{
+    width: 477px;
+    height: 72px;
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    margin-top: 4px;
+}
+.my-bt-developer{
+    width: 152px;
+    height: 48px;
+    color: 1px	Inside
+    rgb(13, 19, 33);
+}
+
+
+
+.banner-section-container{
+    width: 946px;
+    height: 336px;
+
+}
+.banner-content{
+    width: 850px;
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 133px;
+    margin-left: 460px;
+
+
+}
+.banner-text-container{
+    width: 477px;
+    height: 220;
+}
+
+.banner-style{
+    width: 390px;
+    height: 72;
+    color: rgba(13, 19, 33, 0.7);
+}
+.banner-pra{
+    width: 468px;
+    height: 52px;
+}
+.banner-bt{
+    width: 149px;
+    height: 48px;
+    color: 1px	Inside
+    rgb(13, 19, 33);
+}
+.banner-image-container{
+    width: 240px;
+    height: 240px;
+
+}
+
+
+
+.my-first-massage-droop{
+
+}
+.my-first-massage{
+    /* width: 852px;
+    height: 39px; */
+    
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+        justify-content: center;
+    
+}
+.song-container{
+    margin-top: 35px;
+       
+}
+.my-first-content{
+    
+}
+.my-second-content{
+    width: 852px;
+    height: 115px;
+    margin-bottom: 350px;
+}
+
+   
+
+
+
+.first-footer-container{
+    width: 1440px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.my-development-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin-bottom: 430px;
+   margin-left: 400px;
+
+}
+
+
+
+
+
+
+
+          
+
+
+
+
+
+.my-last-container{
+    width: 1140px;
+    height: 314px;
+    margin-left: 350px;
+    margin-top: 50px;
+    background-image: url('/assainment-image/handshake.jpg');
+}
+.my-last-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.my-last-content p{
+    margin-top: 10px;
+}
+.my-last-content input{
+    margin-top: 40px;
+    font-size: 30px;
+    box-shadow: box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+    
+}
+
+.last-btn{
+    width: 120px;
+    height: 39px;
+    color: rgb(13, 19, 33);
+    background-color: rgb(255, 255, 255);
+    
+   
+    
+    
+}
+
